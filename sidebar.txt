@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aau:home|Door43 (aau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aau|d43-aau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aau/archive/master.zip|d43-aau.zip]]
+
+**Recent Changes**
+{{changes>ns = aau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aau|Ethnologue data]]
+
